@@ -187,7 +187,7 @@ If you found this useful, please ⭐ the repository!
 Before pushing, update this line:
 
 ```bash
-git clone https://github.com/your-username/smart-recon.git
+git clone https://github.com/yAnanthu-R-S/smart-recon.git
 ```
 
 
